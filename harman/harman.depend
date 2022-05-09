@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1652087769 source:c:\batch6\harman\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<mysql.h>
+	<sstream>
+	<stdlib.h>
+	<string>
+
+1651688368 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1651688348 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1651688355 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1651688361 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1651688373 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1651688343 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1651688336 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
